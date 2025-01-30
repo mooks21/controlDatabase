@@ -243,7 +243,7 @@ def main():
                           key = 'mymap',
                           feature_group_to_add=fg_list,
                           use_container_width=True,
-                          width=1500, height=800,
+                          width=1500, height=700,
                           #returned_objects=[]
                           #layer_control=control
         )
